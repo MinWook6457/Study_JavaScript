@@ -1,4 +1,6 @@
-import BLOCKS from "./blocks.js";
+// import BLOCKS from "./blocks.js";
+
+// const BLOCKS = require("./blocks.js");
 // DOM
 const playground = document.querySelector(".playground > ul");
 const gameText = document.querySelector(".game-text");
